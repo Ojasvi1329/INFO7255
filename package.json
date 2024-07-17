@@ -8,7 +8,7 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ojasvi Patel",
+  "author": "Siddharth Gargava",
   "license": "ISC",
   "dependencies": {
     "elasticsearch": "^16.7.2",
