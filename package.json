@@ -1,7 +1,7 @@
 {
   "name": "info7255",
   "version": "1.0.0",
-  "description": "This is demo 1",
+  "description": "This is a medical rest plan ",
   "main": "server.js",
   "scripts": {
     "start:dev": "nodemon server.js",
